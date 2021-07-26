@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 
 Email: contact@monaxgt.com
+
 Twitter: [@MonaxGT](https://twitter.com/MonaxGT "@MonaxGT")
+
 Telegram: [@MonaxGT](https://t.me/MonaxGT "@MonaxGT")
 
 GPG: 0xD44BF7EC
